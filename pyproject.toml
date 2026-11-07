@@ -1,0 +1,5 @@
+[project]
+name="vision-language-industrial"
+version="1.0.0"
+requires-python=">=3.11"
+dependencies=["torch","torchvision","transformers","pillow","fastapi","uvicorn","numpy"]
